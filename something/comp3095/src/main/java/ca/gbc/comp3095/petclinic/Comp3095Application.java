@@ -1,4 +1,4 @@
-package com.example.comp3095;
+package ca.gbc.comp3095.petclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
